@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1481985857 source:/home/redearmy/MIA_Proyecto/Fase1/main.c
+	"Discos.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<libgen.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1481651717 /home/redearmy/MIA_Proyecto/Fase1/Discos.h
+
+1481983369 source:/home/redearmy/MIA_Proyecto/Fase1/Discos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	"Discos.h"
+	"Graficadora.h"
+
+1455061152 /home/redearmy/MIA_Proyecto/Fase1/Graficadora.h
+
+1487065917 source:/home/rede/Escritorio/MIA/MIA_Proyecto/Fase1/Discos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	"Discos.h"
+	"Graficadora.h"
+
+1481651716 /home/rede/Escritorio/MIA/MIA_Proyecto/Fase1/Discos.h
+
+1455061152 /home/rede/Escritorio/MIA/MIA_Proyecto/Fase1/Graficadora.h
+
+1487065958 source:/home/rede/Escritorio/MIA/MIA_Proyecto/Fase1/main.c
+	"Discos.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<libgen.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1487065917 /home/rede/Escritorio/MIA/MIA_Proyecto/Fase1/Discos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	"Discos.h"
+	"Graficadora.h"
+
+1487065917 source:/home/rede/MIA_Proyecto/Fase1/Discos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+	"Discos.h"
+	"Graficadora.h"
+
+1481651716 /home/rede/MIA_Proyecto/Fase1/Discos.h
+
+1455061152 /home/rede/MIA_Proyecto/Fase1/Graficadora.h
+
+1487763230 source:/home/rede/MIA_Proyecto/Fase1/main.c
+	"Discos.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<libgen.h>
+	<sys/stat.h>
+	<sys/types.h>
+
